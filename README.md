@@ -1,24 +1,16 @@
-# Welcome to your GPT Engineer project
+# Welcome to my project
 
 ## Project info
 
 **Project**: teamshowcase-harmony
 
-**URL**: https://run.gptengineer.app/projects/2c796d49-550f-438e-b48c-f37389c96625/improve
-
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use GPT Engineer**
-
-Simply visit the GPT Engineer project at [GPT Engineer](https://gptengineer.app/projects/2c796d49-550f-438e-b48c-f37389c96625/improve) and start prompting.
-
-Changes made via gptengineer.app will be committed automatically to this repo.
-
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in the GPT Engineer UI.
+If you want to work locally using your own IDE, you can clone this repo and push changes.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
